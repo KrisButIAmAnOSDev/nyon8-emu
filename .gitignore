@@ -1,0 +1,4 @@
+chip8
+*.o
+chip8-test-rom/
+chip8-test-suite/
